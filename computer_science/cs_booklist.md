@@ -20,7 +20,7 @@
 
 いわゆるドラゴンブック。
 
-# アーキテクチャ
+## アーキテクチャ
 
 [コンピュータアーキテクチャ[第6版]定量的アプローチ](https://www.amazon.co.jp/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3-%E7%AC%AC6%E7%89%88-%E5%AE%9A%E9%87%8F%E7%9A%84%E3%82%A2%E3%83%97%E3%83%AD%E3%83%BC%E3%83%81-%E3%82%B8%E3%83%A7%E3%83%B3-%E3%83%98%E3%83%8D%E3%82%B7%E3%83%BC/dp/4434264001/ref=pd_sbs_14_4/355-9370374-2595248?_encoding=UTF8&pd_rd_i=4434264001&pd_rd_r=56a00626-a927-4711-90b5-d3aef767311e&pd_rd_w=qhEcb&pd_rd_wg=7nljn&pf_rd_p=ad2ea29d-ea11-483c-9db2-6b5875bb9b73&pf_rd_r=CTDYVBBJHF69FC5ZNR0T&psc=1&refRID=CTDYVBBJHF69FC5ZNR0T)
 
@@ -29,7 +29,5 @@
 [RISC-V原典 オープンアーキテクチャのススメ](https://www.amazon.co.jp/RISC-V%E5%8E%9F%E5%85%B8-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1-%E3%83%87%E3%82%A4%E3%83%93%E3%83%83%E3%83%89%E3%83%BB%E3%83%91%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%B3/dp/4822292819/ref=pd_sbs_14_6/355-9370374-2595248?_encoding=UTF8&pd_rd_i=4822292819&pd_rd_r=56a00626-a927-4711-90b5-d3aef767311e&pd_rd_w=qhEcb&pd_rd_wg=7nljn&pf_rd_p=ad2ea29d-ea11-483c-9db2-6b5875bb9b73&pf_rd_r=CTDYVBBJHF69FC5ZNR0T&psc=1&refRID=CTDYVBBJHF69FC5ZNR0T)
 
 RISC-Vの聖典。
-
-
 
 
