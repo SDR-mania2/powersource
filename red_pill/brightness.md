@@ -2,7 +2,9 @@
 
 ***ターミナルでxrandrを実行してconnectedなディスプレイ名を探す。***
 
-***xrandr --output LVDS-1 --brightness 0.5 のように実行すれば調整可能。***
+***LVDS-1 connected 1024x768+0+0*** のような表示をさがす。 
+
+***xrandr --output LVDS-1 --brightness 0.5*** のように実行すれば調整可能。
 
 0から1.0の幅で調整可能らしい。以上。
 
