@@ -10,23 +10,19 @@
 
 ## systemctlの使い方
 
-systemctl list-unit-files --type=service
+*systemctl list-unit-files --type=service*
 
 でサービス一覧見れる。
 
-systemctl status ssh
+*systemctl status ssh*
 
 で状態表示する。
 
-systemctl stop sshも
+*systemctl stop ssh*
 
 で停止する。
 
-systemctl disable ssh
+*systemctl disable ssh*
 
 で自動起動の無効化。これだけでは停止しない。stopが必要らしい。xenialではserviceコマンドもまだ使えるようだ。syslogも見れる。
-
-
-
-
 
