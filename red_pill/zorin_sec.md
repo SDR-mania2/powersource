@@ -1,12 +1,12 @@
 # なろうで公開するためのメモ
 
-## ZorinOS12.4Liteを入れてからの設定
+## Zorin OS 12.4Liteを入れてからの設定
 
 ### ブラウザにアドオンを追加する
 
-- まずchromiumにadblock→umatrix入れる。
+- まずchromiumにadblock→uMatrix入れる。
 
-- 次にfirefoxにublock origine→umatrix入れる。
+- 次にfirefoxにuBlock Origin→uMatrix入れる。
 
 - さらにgufwをオンにする。(インストール後メニューにアイコンが追加される)
 
@@ -20,7 +20,7 @@
 
 ### VNCは暗号化されてない→パスワードが平文で流れる
 
-ZorinOSとラズパイをVNC接続する場合の注意事項
+Zorin OSとラズパイをVNC接続する場合の注意事項
 
 - ラズパイとPCを接続→WAN側は遮断すること。VNC接続ではwiresharkでパスワードが丸見え。
 
