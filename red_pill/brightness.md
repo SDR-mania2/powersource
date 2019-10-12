@@ -2,7 +2,7 @@
 
 ***ターミナルでxrandrを実行してconnectedなディスプレイ名を探す。***
 
-***LVDS-1 connected 1024x768+0+0*** のような表示をさがす。 
+***LVDS-1 connected 1024x768+0+0*** のような表示をさがす。 LVDSではなくEDPなどとなっているかもしれません。
 
 ***xrandr --output LVDS-1 --brightness 0.5*** のように実行すれば調整可能。
 
