@@ -1,8 +1,8 @@
 # zorin12.4での画面輝度設定方法。
 
-** ターミナルでxrandrを実行してconnectedなディスプレイ名を探す。 **
+***ターミナルでxrandrを実行してconnectedなディスプレイ名を探す。***
 
-** xrandr --output LVDS-1 --brightness 0.5 のように実行すれば調整可能。 **
+***xrandr --output LVDS-1 --brightness 0.5 のように実行すれば調整可能。***
 
 0から1.0の幅で調整可能らしい。以上。
 
