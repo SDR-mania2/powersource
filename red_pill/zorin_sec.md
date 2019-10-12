@@ -2,7 +2,7 @@
 
 ## ZorinOS12.4Liteを入れてからの設定
 
-### ブラウザにアドオンを追加する。
+### ブラウザにアドオンを追加する
 
 - まずchromiumにadblock→umatrix入れる。
 
@@ -10,7 +10,7 @@
 
 - さらにgufwをオンにする。(インストール後メニューにアイコンが追加される)
 
-### 画面輝度を調節する。
+### 画面輝度を調節する
 
 - /sys/class/backlight/brightnessがない。仕方なくxrandrを使う。さくっと設定完了。
 
@@ -18,11 +18,11 @@
 
 - /var/log/ufw.logは常にチェックする。journalctlも使う。一応aa-statusも確認しておく。(ただしauditは入ってない)
 
-### VNCは暗号化されてない→パスワードが平文で流れる。
+### VNCは暗号化されてない→パスワードが平文で流れる
 
-- ラズパイと接続→LANは遮断すること。
+- ラズパイとPCを接続→WAN側は遮断すること。VNC接続ではwiresharkでパスワードが丸見え。
 
 - ssh-X使え→sshかますので問題なし。
 
-### D-ShieldとwiresharkでLAN監視する。いずれsuricataへ移行したい。
+### D-ShieldとwiresharkでLAN監視する。いずれsuricataへ移行したい
 
