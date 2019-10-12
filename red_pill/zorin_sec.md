@@ -4,11 +4,13 @@
 
 ### ブラウザにアドオンを追加する
 
-- まずchromiumにadblock→uMatrix入れる。
+- まずChromiumにAdblock→uMatrix入れる。
 
-- 次にfirefoxにuBlock Origin→uMatrix入れる。
+- 次にFirefoxにuBlock Origin→uMatrix入れる。
 
 - さらにgufwをオンにする。(インストール後メニューにアイコンが追加される)
+
+広告ブロッカーの設定は一例です。他のアドオンでもかまいません。問題のある広告ブロッカーもあるので、調査してから入れるべきです。
 
 ### 画面輝度を調節する
 
