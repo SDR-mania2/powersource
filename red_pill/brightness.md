@@ -8,6 +8,8 @@
 
 # ついでにsshとtelnetの停止方法
 
+SSHやtelnetは外部からLnuxに接続するためのプロトコルです。Windows10でもSSHが使えるらしいので、分からない方は調べてください。サーバーとして外部に公開する場合の除いて、セキュリティ上侵入経路になるため、サービスを停止するのが鉄則です。SSHに限らず不要なサービスは止めることはLinux使いへの第一歩です。
+
 ## systemctlの使い方
 
 *systemctl list-unit-files --type=service*
