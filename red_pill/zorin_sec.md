@@ -16,13 +16,13 @@
 
 画面輝度が明るすぎるので調整する。他にも設定や確認事項など。
 
-- /sys/class/backlight/brightnessがない。仕方なくxrandrを使う。さくっと設定完了。
+- */sys/class/backlight/brightness* がない。仕方なくxrandrを使う。さくっと設定完了。
 
 - *systemctl list-unit-files --type=service* や *service --status-all* などでsshやtelnetの停止を確認しておく。
 
 - */var/log/ufw.log* は常にチェックする。journalctlも使う。一応aa-statusも確認しておく。(ただしauditは入ってない)
 
-Linuxではログはたいてい */var/log/* にあります。初心者はここを見ましょう。ただし今後journalctlに移行していくと思われるので、使い方を知っておく必要があります。*aa-status* はAppArmorというセキュリティソフトのコマンドです。起動状態を確認しておきましょう。
+Linuxではログはたいてい */var/log/* にあります。初心者はここを見ましょう。ただし今後journalctlに移行していくと思われるので、使い方を知っておく必要があります。*aa-status* はAppArmorというセキュリティソフトのコマンドです。起動状態がenableか確認しておきましょう。
 
 ### VNCは暗号化されてない→パスワードが平文で流れる
 
