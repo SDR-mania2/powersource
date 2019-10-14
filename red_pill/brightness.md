@@ -30,7 +30,7 @@ SSHやtelnetは外部からLnuxに接続するためのプロトコルです。W
 
 で自動起動の無効化。これだけでは停止しない。stopが必要らしい。xenialではserviceコマンドもまだ使えるようだ。
 
-*/var/log/* 以下にログを配置しているのはsyslogdというサービスです。最近のLinuxでは、今まで主流だったinitという起動システムがsystemdに移行しつつあります。これに伴ないsyslogdは今後systemdへと移行していく予定で、systemdではログはjournalctlコマンドで表示されます。また再起動ごとにログは消去されて残りません。systemctlはsystemdのコマンドなので、systemd移行後も使えます。Ubuntuなど多くのディストリビューションでは、現在syslogdもsystemdも併用している状態です。
+*/var/log/* 以下にログを配置しているのは*syslogd*というサービスです。最近のLinuxでは、今まで主流だった*init*という起動システムが*systemd*に移行しつつあります。これに伴ない*syslogd*は今後*systemd*へと移行していく予定で、*systemd*(より詳しく言うと*systemd-journald*)ではログは*journalctl*コマンドで表示されます。また再起動ごとにログは消去されて残りません。*systemctl*は*systemd*のコマンドなので、*systemd*移行後も使えます。Ubuntuなど多くのディストリビューションでは、現在*syslogd*も*systemd*も併用している状態です。
 
 
 
