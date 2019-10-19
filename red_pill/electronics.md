@@ -16,7 +16,13 @@
 
 台風による浸水被害時の停電だけでなく、電柱の移設工事や分電盤工事でも報告事例がある。知らないと泣き寝入りするはめになる。***要するに停電したら電気製品のコンセントは全て抜くこと***。復旧してもすぐに電気を使わない。壊れてもよいものでテストすること。これだけ。国民生活センターの説明が分かりやすい。リンクは以下に。
 
-
 <http://www.kokusen.go.jp/t_box/data/t_box-faq_qa2017_14.html>
 
 <http://www.kokusen.go.jp/news/data/n-20080410_1.html>
+
+- **東京防災**は東京都民じゃなくてもダウンロードしておくこと。全国民必読。大阪防災も作れ。Kindleなら無料。
+
+[東京防災サイト](https://www.bousai.metro.tokyo.lg.jp/)
+
+[Kindleの東京防災ページ](https://www.amazon.co.jp/%E6%9D%B1%E4%BA%AC%E9%98%B2%E7%81%BD-%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%B7%8F%E5%8B%99%E5%B1%80%E7%B7%8F%E5%90%88%E9%98%B2%E7%81%BD%E9%83%A8%E9%98%B2%E7%81%BD%E7%AE%A1%E7%90%86%E8%AA%B2-ebook/dp/B01DJ6KDUS)
+
