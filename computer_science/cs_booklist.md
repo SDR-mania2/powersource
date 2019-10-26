@@ -16,6 +16,10 @@
 
 いわゆる悪魔本。
 
+[オペレーティングシステム 第3版　設計と実装](https://www.amazon.co.jp/Operating-Systems-Implementation-Prentice-Software/dp/0131429388)
+
+いわゆるタネンバウム本。
+
 [コンパイラ―原理・技法・ツール](https://www.amazon.co.jp/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9%E2%80%95%E5%8E%9F%E7%90%86%E3%83%BB%E6%8A%80%E6%B3%95%E3%83%BB%E3%83%84%E3%83%BC%E3%83%AB-Information-Computing-V-%E3%82%A8%E3%82%A4%E3%83%9B/dp/478191229X)
 
 いわゆるドラゴンブック。
