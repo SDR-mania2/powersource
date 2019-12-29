@@ -40,12 +40,14 @@ OpenSSLで複数のファイルを一度に暗号化する。
 
 #### 暗号化　
 
-CBCかCFBを使う。コマンドは以下で。暗号化ファイル名は.encをつけるとする。
+CBCかCFBを使う。テキストファイルを暗号化する場合のコマンドは以下で。暗号化ファイル名は.encをつけるとする。
 
 *find . -name "\*.txt" -type f | xargs -I {} openssl aes-256-cfb -e in {} -out {}.enc -iter 10000*
 
-#### 複合化
+#### 復号化
 
 復号化ファイルは.decをつける。
 
 *find . -name "\*.enc" -type f | xargs -I {} openssl aes-256-cfb -d in {} -out {}.dec -iter 10000*
+
+iterオプションは適当につけた。お好みで修正してください。
