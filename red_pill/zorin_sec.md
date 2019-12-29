@@ -34,3 +34,18 @@ Zorin OSとラズパイをVNC接続する場合の注意事項など。
 
 ### D-ShieldとwiresharkでLAN監視する。いずれsuricataへ移行したい
 
+### ファイル暗号化
+
+OpenSSLで複数のファイルを一度に暗号化する。
+
+#### 暗号化　
+
+CBCかCFBを使う。コマンドは以下で。暗号化ファイル名は.encをつけるとする。
+
+*find . -name "*.txt" -type f | xargs -I {} openssl aes-256-cfb -e in {} -out {}.enc -iter 10000*
+
+#### 複合化
+
+復号化ファイルは.decをつける。
+
+*find . -name "*.enc" -type f | xargs -I {} openssl aes-256-cfb -d in {} -out {}.dec -iter 10000*
