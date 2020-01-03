@@ -34,6 +34,8 @@ Zorin OSとラズパイをVNC接続する場合の注意事項など。
 
 ### D-ShieldとwiresharkでLAN監視する。いずれsuricataへ移行したい
 
+もっと簡単な方法は、ラズパイをもう一台用意してプロキシを立てればよい。SquidでもPrivoxyでもよい。プロキシのログチェックでC&Cサーバとの通信をチェックする。簡易的なIDSとして利用できる。Squidのログは見やすいのでwiresharkでパケット見るより簡単。
+
 ### ファイル暗号化
 
 OpenSSLで複数のファイルを一度に暗号化する。
@@ -44,9 +46,9 @@ CBCかCFBを使う。テキストファイルを暗号化する場合のワン�
 
 *find . -name "\*.txt" -type f | xargs -I {} openssl aes-256-cfb -e -in {} -out {}.enc -iter 10000*
 
-#### 復号化
+#### 復号
 
-復号化ファイルは.decをつける。
+復号したファイルは.decをつける。論文じゃないから別に「復号化」でもいいと思うが。学生さんはこだわりたいんでしょう。
 
 *find . -name "\*.enc" -type f | xargs -I {} openssl aes-256-cfb -d -in {} -out {}.dec -iter 10000*
 
