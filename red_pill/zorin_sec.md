@@ -62,7 +62,7 @@ iterオプションは適当につけた。お好みで修正してください�
 
 ISPのDNSではなく、パブリックDNSを使う。ディストリビューションによるが、以下を設定する。
 
-- */etc/resolv.conf* または */etc/systemd/resolved.conf* に1.1.1.1あるいは8.8.8.8を設定する。
+- */etc/resolv.conf* または */etc/systemd/resolved.conf* に1.1.1.1と8.8.8.8を設定する。
 
 DNSをどうするかは価値観の問題になるので、これが正解という答えはない。IPv6も同様に問題がある。デフォルトの設定では、おそらくMACアドレスが公開されることになる。最低限、Firefoxの *network.dns.disableIPv6* を *true* にしておくべきだろう。
 
