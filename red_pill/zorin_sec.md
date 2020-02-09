@@ -20,7 +20,7 @@
 
 - *systemctl list-unit-files --type=service* や *service --status-all* などでsshやtelnetの停止を確認しておく。
 
-- */var/log/ufw.log* は常にチェックする。journalctlも使う。一応aa-statusも確認しておく。(ただしauditは入ってない)
+- */var/log/ufw.log* は常にチェックする。journalctlも使う。一応aa-statusも確認しておく。
 
 Linuxではログはたいてい */var/log/* にあります。初心者はここを見ましょう。ただし今後journalctlに移行していくと思われるので、使い方を知っておく必要があります。*aa-status* はAppArmorというセキュリティソフトのコマンドです。起動状態がenableか確認しておきましょう。
 
@@ -57,3 +57,8 @@ CBCかCFBを使う。テキストファイルを暗号化する場合のワン�
 *find . -name "\*.enc" -type f | xargs -I {} openssl aes-256-cfb -d -in {} -out {}.dec -iter 10000*
 
 iterオプションは適当につけた。お好みで修正してください。
+
+### DNS設定
+
+ISPのDNSではなく、パブリックDNSを使う。ディストリビューションによるが、*resolv.conf*または*/etc/systemd/resolved.conf*を編集する。*1.1.1.1*あるいは*8.8.8.8*を設定しておけばよいだろう。DNSをどうするかは価値観の問題になるので、これが正解という答えはない。IPv6も同様に問題がある。デフォルトの設定では、おそらくMACアドレスが公開されることになる。最低限、Firefoxのnetwork.dns.disableIPv6をtrueにしておくべきだろう。
+
