@@ -66,6 +66,4 @@ ISPのDNSではなく、パブリックDNSを使う。ディストリビュー�
 
 DNSをどうするかは価値観の問題になるので、これが正解という答えはない。IPv6も同様に問題がある。デフォルトの設定では、おそらくMACアドレスが公開されることになる。最低限、Firefoxの *network.dns.disableIPv6* を *true* にしておくべきだろう。
 
-LnuxならRFC7217は実装されているはずだが、簡単で確実なのはufwで設定する方法。 */etc/default/ufw* でIPV6=noにすればいい。
-
-
+LinuxならRFC7217は実装されているはずだが、簡単で確実なのはufwで設定する方法。 */etc/default/ufw* でIPV6=noにすればいい。これでIPv6は遮断される。
