@@ -20,6 +20,8 @@
 
 [洪門人による洪門正史―歴史・精神・儀式と組織](https://www.amazon.co.jp/%E6%B4%AA%E9%96%80%E4%BA%BA%E3%81%AB%E3%82%88%E3%82%8B%E6%B4%AA%E9%96%80%E6%AD%A3%E5%8F%B2%E2%80%95%E6%AD%B4%E5%8F%B2%E3%83%BB%E7%B2%BE%E7%A5%9E%E3%83%BB%E5%84%80%E5%BC%8F%E3%81%A8%E7%B5%84%E7%B9%94-%E5%AE%89%E9%83%A8-%E8%8B%B1%E6%A8%B9/dp/476465105X/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E6%B4%AA%E9%96%80&qid=1572769703&s=books&sr=1-2)
 
+広瀬隆の著書を読めば、中国についての知識は得られる。しかしチベットや洪門など、抜けている知識も多い。自分で調査して補完するしかない、
+
 [日本会議の研究](https://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E4%BC%9A%E8%AD%B0%E3%81%AE%E7%A0%94%E7%A9%B6-%E6%89%B6%E6%A1%91%E7%A4%BE%E6%96%B0%E6%9B%B8-%E8%8F%85%E9%87%8E-%E5%AE%8C/dp/4594074766)
 
 [日本会議の正体](https://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E4%BC%9A%E8%AD%B0%E3%81%AE%E6%AD%A3%E4%BD%93-%E5%B9%B3%E5%87%A1%E7%A4%BE%E6%96%B0%E6%9B%B8-%E9%9D%92%E6%9C%A8%E7%90%86/dp/458285818X/ref=pd_bxgy_14_img_2/357-9230856-5844050?_encoding=UTF8&pd_rd_i=458285818X&pd_rd_r=e1a19b93-53c8-43ff-864d-6d038cf71344&pd_rd_w=ESsVD&pd_rd_wg=8z0JN&pf_rd_p=b25bd748-082b-4f2a-b724-125316a35a9c&pf_rd_r=GTQDX6CM9T70AKSTT1SY&psc=1&refRID=GTQDX6CM9T70AKSTT1SY)
