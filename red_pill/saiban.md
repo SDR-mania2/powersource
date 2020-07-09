@@ -28,7 +28,7 @@
 
 [裁判官！ 当職そこが知りたかったのです。 ](https://www.amazon.co.jp/gp/product/B07FNBS4SV/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i3)
 
-名物裁判官の民事訴訟解説本。弁護士でなくても読みやすい。
+名物裁判官の民事訴訟についての対談集。弁護士でなくても読みやすい。
 
 [書式 民事訴訟の実務―訴え提起から訴訟終了までの書式と理論](https://www.amazon.co.jp/%E6%9B%B8%E5%BC%8F-%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E3%81%AE%E5%AE%9F%E5%8B%99%E2%80%95%E8%A8%B4%E3%81%88%E6%8F%90%E8%B5%B7%E3%81%8B%E3%82%89%E8%A8%B4%E8%A8%9F%E7%B5%82%E4%BA%86%E3%81%BE%E3%81%A7%E3%81%AE%E6%9B%B8%E5%BC%8F%E3%81%A8%E7%90%86%E8%AB%96-%E8%A3%81%E5%88%A4%E4%BA%8B%E5%8B%99%E6%89%8B%E7%B6%9A%E8%AC%9B%E5%BA%A7-%E5%A4%A7%E5%B3%B6-%E6%98%8E/dp/4865561706/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E6%9B%B8%E5%BC%8F+%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E3%81%AE%E5%AE%9F%E5%8B%99&qid=1594284856&s=books&sr=1-1)
 
