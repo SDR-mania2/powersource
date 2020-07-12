@@ -20,6 +20,8 @@
 
 必須のキーワード→擬制自白(擬制陳述)、三行答弁書、直送(FAX)のやり方
 
+[社労士のためのわかりやすい補佐人制度の解説](https://www.amazon.co.jp/%E7%A4%BE%E5%8A%B4%E5%A3%AB%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE-%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%84%E8%A3%9C%E4%BD%90%E4%BA%BA%E5%88%B6%E5%BA%A6%E3%81%AE%E8%A7%A3%E8%AA%AC-%E5%B2%A1%E5%B4%8E-%E6%95%99%E8%A1%8C/dp/4897617294)
+
 ## ❸第2回口頭弁論期日までに必要な知識
 
 [①図解入門ビギナーズ最新民事訴訟法の基本と仕組みがよ~くわかる本](https://www.amazon.co.jp/%E5%9B%B3%E8%A7%A3%E5%85%A5%E9%96%80%E3%83%93%E3%82%AE%E3%83%8A%E3%83%BC%E3%82%BA%E6%9C%80%E6%96%B0%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E6%B3%95%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%81%A8%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%8C%E3%82%88-%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8B%E6%9C%AC-How%E2%80%90nual-Visual-Guide-Book/dp/4798025976/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E6%B3%95%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%81%A8%E4%BB%95%E7%B5%84%E3%81%BF&qid=1594284690&s=books&sr=1-1)
