@@ -22,28 +22,28 @@
 
 ## ❸第2回口頭弁論期日までに必要な知識
 
-[図解入門ビギナーズ最新民事訴訟法の基本と仕組みがよ~くわかる本](https://www.amazon.co.jp/%E5%9B%B3%E8%A7%A3%E5%85%A5%E9%96%80%E3%83%93%E3%82%AE%E3%83%8A%E3%83%BC%E3%82%BA%E6%9C%80%E6%96%B0%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E6%B3%95%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%81%A8%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%8C%E3%82%88-%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8B%E6%9C%AC-How%E2%80%90nual-Visual-Guide-Book/dp/4798025976/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E6%B3%95%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%81%A8%E4%BB%95%E7%B5%84%E3%81%BF&qid=1594284690&s=books&sr=1-1)
+[①図解入門ビギナーズ最新民事訴訟法の基本と仕組みがよ~くわかる本](https://www.amazon.co.jp/%E5%9B%B3%E8%A7%A3%E5%85%A5%E9%96%80%E3%83%93%E3%82%AE%E3%83%8A%E3%83%BC%E3%82%BA%E6%9C%80%E6%96%B0%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E6%B3%95%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%81%A8%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%8C%E3%82%88-%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8B%E6%9C%AC-How%E2%80%90nual-Visual-Guide-Book/dp/4798025976/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E6%B3%95%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%81%A8%E4%BB%95%E7%B5%84%E3%81%BF&qid=1594284690&s=books&sr=1-1)
 
 一般向けの民事訴訟法の解説本。法律用語の説明がわかりやすい。残念ながら絶版状態なので、図書館を探すしかない。
 
-[裁判官！ 当職そこが知りたかったのです。 ](https://www.amazon.co.jp/gp/product/B07FNBS4SV/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i3)
+[②裁判官！ 当職そこが知りたかったのです。 ](https://www.amazon.co.jp/gp/product/B07FNBS4SV/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i3)
 
 名物裁判官の民事訴訟についての対談集。弁護士でなくても読みやすい。
 
-[書式 民事訴訟の実務―訴え提起から訴訟終了までの書式と理論](https://www.amazon.co.jp/%E6%9B%B8%E5%BC%8F-%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E3%81%AE%E5%AE%9F%E5%8B%99%E2%80%95%E8%A8%B4%E3%81%88%E6%8F%90%E8%B5%B7%E3%81%8B%E3%82%89%E8%A8%B4%E8%A8%9F%E7%B5%82%E4%BA%86%E3%81%BE%E3%81%A7%E3%81%AE%E6%9B%B8%E5%BC%8F%E3%81%A8%E7%90%86%E8%AB%96-%E8%A3%81%E5%88%A4%E4%BA%8B%E5%8B%99%E6%89%8B%E7%B6%9A%E8%AC%9B%E5%BA%A7-%E5%A4%A7%E5%B3%B6-%E6%98%8E/dp/4865561706/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E6%9B%B8%E5%BC%8F+%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E3%81%AE%E5%AE%9F%E5%8B%99&qid=1594284856&s=books&sr=1-1)
+[③書式 民事訴訟の実務―訴え提起から訴訟終了までの書式と理論](https://www.amazon.co.jp/%E6%9B%B8%E5%BC%8F-%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E3%81%AE%E5%AE%9F%E5%8B%99%E2%80%95%E8%A8%B4%E3%81%88%E6%8F%90%E8%B5%B7%E3%81%8B%E3%82%89%E8%A8%B4%E8%A8%9F%E7%B5%82%E4%BA%86%E3%81%BE%E3%81%A7%E3%81%AE%E6%9B%B8%E5%BC%8F%E3%81%A8%E7%90%86%E8%AB%96-%E8%A3%81%E5%88%A4%E4%BA%8B%E5%8B%99%E6%89%8B%E7%B6%9A%E8%AC%9B%E5%BA%A7-%E5%A4%A7%E5%B3%B6-%E6%98%8E/dp/4865561706/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E6%9B%B8%E5%BC%8F+%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E3%81%AE%E5%AE%9F%E5%8B%99&qid=1594284856&s=books&sr=1-1)
 
 こちらは民事裁判の書式解説。弁護士用なので、いきなり読むのは厳しいだろうが、自分で準備書面などを書く場合は非常に参考になる。
 
-[事件処理のプロになるための 民事弁護ガイドブック](https://www.amazon.co.jp/%E4%BA%8B%E4%BB%B6%E5%87%A6%E7%90%86%E3%81%AE%E3%83%97%E3%83%AD%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE-%E6%B0%91%E4%BA%8B%E5%BC%81%E8%AD%B7%E3%82%AC%E3%82%A4%E3%83%89%E3%83%96%E3%83%83%E3%82%AF-%E7%AC%AC2%E7%89%88-%E6%9D%B1%E4%BA%AC%E5%BC%81%E8%AD%B7%E5%A3%AB%E4%BC%9A%E6%B3%95%E5%8F%8B%E5%85%A8%E6%9C%9F%E4%BC%9A-%E6%B0%91%E4%BA%8B%E5%BC%81%E8%AD%B7%E7%A0%94%E7%A9%B6%E4%BC%9A/dp/4324106010/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E4%BA%8B%E4%BB%B6%E5%87%A6%E7%90%86%E3%81%AE%E3%83%97%E3%83%AD%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE+%E6%B0%91%E4%BA%8B%E5%BC%81%E8%AD%B7%E3%82%AC%E3%82%A4%E3%83%89%E3%83%96%E3%83%83%E3%82%AF&qid=1594284776&s=books&sr=1-1)
+[④事件処理のプロになるための 民事弁護ガイドブック](https://www.amazon.co.jp/%E4%BA%8B%E4%BB%B6%E5%87%A6%E7%90%86%E3%81%AE%E3%83%97%E3%83%AD%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE-%E6%B0%91%E4%BA%8B%E5%BC%81%E8%AD%B7%E3%82%AC%E3%82%A4%E3%83%89%E3%83%96%E3%83%83%E3%82%AF-%E7%AC%AC2%E7%89%88-%E6%9D%B1%E4%BA%AC%E5%BC%81%E8%AD%B7%E5%A3%AB%E4%BC%9A%E6%B3%95%E5%8F%8B%E5%85%A8%E6%9C%9F%E4%BC%9A-%E6%B0%91%E4%BA%8B%E5%BC%81%E8%AD%B7%E7%A0%94%E7%A9%B6%E4%BC%9A/dp/4324106010/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E4%BA%8B%E4%BB%B6%E5%87%A6%E7%90%86%E3%81%AE%E3%83%97%E3%83%AD%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE+%E6%B0%91%E4%BA%8B%E5%BC%81%E8%AD%B7%E3%82%AC%E3%82%A4%E3%83%89%E3%83%96%E3%83%83%E3%82%AF&qid=1594284776&s=books&sr=1-1)
 
 若手弁護士用の民事訴訟マニュアル本。交通事故の事例が多い。
 
-[絶望の裁判所](https://www.amazon.co.jp/%E7%B5%B6%E6%9C%9B%E3%81%AE%E8%A3%81%E5%88%A4%E6%89%80-%E8%AC%9B%E8%AB%87%E7%A4%BE%E7%8F%BE%E4%BB%A3%E6%96%B0%E6%9B%B8-%E7%80%AC%E6%9C%A8-%E6%AF%94%E5%91%82%E5%BF%97/dp/4062882507/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E7%B5%B6%E6%9C%9B%E3%81%AE%E8%A3%81%E5%88%A4%E6%89%80&qid=1594284609&s=books&sr=1-1)
+[⑤絶望の裁判所](https://www.amazon.co.jp/%E7%B5%B6%E6%9C%9B%E3%81%AE%E8%A3%81%E5%88%A4%E6%89%80-%E8%AC%9B%E8%AB%87%E7%A4%BE%E7%8F%BE%E4%BB%A3%E6%96%B0%E6%9B%B8-%E7%80%AC%E6%9C%A8-%E6%AF%94%E5%91%82%E5%BF%97/dp/4062882507/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E7%B5%B6%E6%9C%9B%E3%81%AE%E8%A3%81%E5%88%A4%E6%89%80&qid=1594284609&s=books&sr=1-1)
 
 元裁判官による暴露本。ここまで書いていいのかという内容。
 ここまで著者の怨念が炸裂しているということは、よほど腹に据えかねるものがあったのだろう。内容の真偽は不明だが批判している裁判官がいないということは、ほぼ事実ということか。
 
-[裁判所の正体:法服を着た役人たち](https://www.amazon.co.jp/%E8%A3%81%E5%88%A4%E6%89%80%E3%81%AE%E6%AD%A3%E4%BD%93-%E6%B3%95%E6%9C%8D%E3%82%92%E7%9D%80%E3%81%9F%E5%BD%B9%E4%BA%BA%E3%81%9F%E3%81%A1-%E7%80%AC%E6%9C%A8-%E6%AF%94%E5%91%82%E5%BF%97/dp/4104405035/ref=pd_bxgy_img_3/357-8234915-0479133?_encoding=UTF8&pd_rd_i=4104405035&pd_rd_r=8920b342-2ce5-4e1e-8ba9-61676df07a02&pd_rd_w=RsRNG&pd_rd_wg=lwXyX&pf_rd_p=e64b0a81-ca1b-4802-bd2c-a4b65bccc76e&pf_rd_r=TQ8NY5P1Y8DJK6EJQJ3F&psc=1&refRID=TQ8NY5P1Y8DJK6EJQJ3F)
+[⑥裁判所の正体:法服を着た役人たち](https://www.amazon.co.jp/%E8%A3%81%E5%88%A4%E6%89%80%E3%81%AE%E6%AD%A3%E4%BD%93-%E6%B3%95%E6%9C%8D%E3%82%92%E7%9D%80%E3%81%9F%E5%BD%B9%E4%BA%BA%E3%81%9F%E3%81%A1-%E7%80%AC%E6%9C%A8-%E6%AF%94%E5%91%82%E5%BF%97/dp/4104405035/ref=pd_bxgy_img_3/357-8234915-0479133?_encoding=UTF8&pd_rd_i=4104405035&pd_rd_r=8920b342-2ce5-4e1e-8ba9-61676df07a02&pd_rd_w=RsRNG&pd_rd_wg=lwXyX&pf_rd_p=e64b0a81-ca1b-4802-bd2c-a4b65bccc76e&pf_rd_r=TQ8NY5P1Y8DJK6EJQJ3F&psc=1&refRID=TQ8NY5P1Y8DJK6EJQJ3F)
 
 絶望の裁判所と同じ著者の本だが、前著は難解な法律用語の説明がなく読みにくい。こちらはジャーナリストがインタビューしているので読みやすい。重複する内容も多いが、裁判所を知るには非常に有益な本。著者は右か左かといえば明らかに左派なので、そこをふまえて読む必要がある。
 
