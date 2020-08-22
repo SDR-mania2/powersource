@@ -8,7 +8,7 @@ CUIで起動できる状態とする。Xサーバの導入から。いきなりi
 
 3.xorg-twm/xterm/otf-ipafont入れる。
 
-4.ここでtwm起動テストする。(startxの前に.xinitrc、.twmrcをコピーしないと起動できない)twmが起動できたらi3入れる。
+4.ここでtwmの起動テストをする。(startxの前に.xinitrc、.twmrcをコピーしないと起動できない)twmが起動できたらi3入れる。
 
 5.i3/dmenu/rxvt-unicode入れる。
 
