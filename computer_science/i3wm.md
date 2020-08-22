@@ -12,7 +12,7 @@ CUIで起動できる状態とする。Xサーバの導入から。いきなりi
 
 5.i3/dmenu/rxvt-unicode入れる。
 
-これでi3が起動できるはず。
+これでi3が正常に起動できるはず。
 
 6.ranger/feh/archlinux-wallpaper入れる。
 
