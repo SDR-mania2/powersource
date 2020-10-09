@@ -28,7 +28,7 @@
 
 [Gaslighting](https://www.amazon.co.jp/Gaslighting-Drive-Your-Enemies-Crazy/dp/1559501138)
 
-基本テクニック -> ダブルバインド、フレネミー、毒親、DVなど。
+基本テクニックとしては、ダブルバインド、フレネミー、毒親、DVなど。
 
 [洪門人による洪門正史―歴史・精神・儀式と組織](https://www.amazon.co.jp/%E6%B4%AA%E9%96%80%E4%BA%BA%E3%81%AB%E3%82%88%E3%82%8B%E6%B4%AA%E9%96%80%E6%AD%A3%E5%8F%B2%E2%80%95%E6%AD%B4%E5%8F%B2%E3%83%BB%E7%B2%BE%E7%A5%9E%E3%83%BB%E5%84%80%E5%BC%8F%E3%81%A8%E7%B5%84%E7%B9%94-%E5%AE%89%E9%83%A8-%E8%8B%B1%E6%A8%B9/dp/476465105X/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E6%B4%AA%E9%96%80&qid=1572769703&s=books&sr=1-2)
 
