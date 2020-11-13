@@ -24,7 +24,7 @@
 
 [ヴェノナ文書](https://www.amazon.co.jp/%E3%83%B4%E3%82%A7%E3%83%8E%E3%83%8A-%E8%A7%A3%E8%AA%AD%E3%81%95%E3%82%8C%E3%81%9F%E3%82%BD%E9%80%A3%E3%81%AE%E6%9A%97%E5%8F%B7%E3%81%A8%E3%82%B9%E3%83%91%E3%82%A4%E6%B4%BB%E5%8B%95-%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%98%E3%82%A4%E3%83%B3%E3%82%BA/dp/4594083072/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=QZ7PVKHTMIW3&keywords=%E3%83%B4%E3%82%A7%E3%83%8E%E3%83%8A%E6%96%87%E6%9B%B8&qid=1572769185&s=books&sprefix=%E3%83%B4%E3%82%A7%E3%83%8E%E3%83%8A%2Cstripbooks%2C323&sr=1-1)
 
-ノーマン・ファイル、Dupes、野坂参三、金天海などで検索すればなかなか興味深い事実が分かるかもしれない。
+ノーマン・ファイル、Dupes、野坂参三、金天海、Cambridge Fiveなどで検索すればなかなか興味深い事実が分かるかもしれない。
 
 [Gaslighting](https://www.amazon.co.jp/Gaslighting-Drive-Your-Enemies-Crazy/dp/1559501138)
 
