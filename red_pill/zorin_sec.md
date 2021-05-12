@@ -64,6 +64,6 @@ ISPのDNSではなく、パブリックDNSを使う。ディストリビュー�
 
 - */etc/resolv.conf* または */etc/systemd/resolved.conf* に1.1.1.1と8.8.8.8を設定する。
 
-「1.1.1.1 for Families」でもよい。DNSをどうするかは価値観の問題になるので、これが正解という答えはない。IPv6も同様に問題がある。デフォルトの設定では、おそらくMACアドレスが公開されることになる。最低限、Firefoxの *network.dns.disableIPv6* をtrueにしておくべきだろう。
+「1.1.1.1 for Families」でもよい。またDNS通信の暗号化はChrome、Firefoxで実装されている(要設定)。DNSをどうするかは価値観の問題になるので、これが正解という答えはない。IPv6も同様に問題がある。デフォルトの設定では、おそらくMACアドレスが公開されることになる。最低限、Firefoxの *network.dns.disableIPv6* をtrueにしておくべきだろう。
 
 LinuxならRFC7217は実装されているはずだが、簡単で確実なのはufwで設定する方法。 */etc/default/ufw* でIPV6=noにすればいい。これでIPv6は遮断される。
