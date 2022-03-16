@@ -70,5 +70,5 @@ LinuxならRFC7217は実装されているはずだが、簡単で確実なの�
 
 ### ⑦ログ監視
 
-systemdにはForward secure sealing(FSS)というログの改ざん検知機能がある。ログ監視はlogwatchやwatchdogでもできるが、systemdならメンテナンスが止まることもないし便利だ。Arch Linuxではデフォルトで有効になっているが、全てのディストリビューションで有効化かはわからない。
+systemdにはForward secure sealing(FSS)というログの改ざん検知機能がある。ログ監視はlogwatchやwatchdogでもできるが、systemdならメンテナンスが止まることもないし便利だ。Arch Linuxではデフォルトで有効になっているが、全てのディストリビューションで有効かはわからない。
 
