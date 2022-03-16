@@ -67,3 +67,7 @@ ISPのDNSではなく、パブリックDNSを使う。ディストリビュー�
 「1.1.1.1 for Families」でもよい。またDNS通信の暗号化はChrome、Firefoxで実装されている(DoHの設定が必要)。DNSをどうするかは価値観の問題になるので、これが正解という答えはない。IPv6も同様に問題がある。デフォルトの設定では、おそらくMACアドレスが公開されることになる。最低限、Firefoxの *network.dns.disableIPv6* をtrueにしておくべきだろう。
 
 LinuxならRFC7217は実装されているはずだが、簡単で確実なのはufwで設定する方法。 */etc/default/ufw* でIPV6=noにすればいい。これでIPv6は遮断される。別の方法として、MACアドレスをランダム化することでIPv6アドレスをランダムにできる。archwikiに「MAC アドレス偽装」というページがあり、方法も書いてある。
+
+### ⑦ログ監視
+
+systemdにはforward secure sealing(FSS)というログの改ざん検知機能がある。同じことはlogwatchやwatchdogでもできるが、systemdならメンテナンスが止まることもないし便利だ。Arch Linuxではデフォルトで有効になっているが、全てのディストリビューションで有効化かはわからない。
